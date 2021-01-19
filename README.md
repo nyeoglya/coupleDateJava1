@@ -1,2 +1,6 @@
-# coupleDateJava1
- date calculator for couple
+# 시간 계산기
+* 시간 계산을 통해 시간 도출
+
+
+### 1. Service
+> - 현재 일부터 100일까지의 시간 출력
